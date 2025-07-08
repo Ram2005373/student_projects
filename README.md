@@ -32,6 +32,5 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: **your@email.com**
+- 📧 Email: your@email.com  
 - 🎥 YouTube: [youtube.com/@yourchannel](https://youtube.com/@yourchannel)
-
