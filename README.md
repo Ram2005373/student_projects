@@ -13,7 +13,10 @@
 - 📋 To-Do App (Coming Soon...)
 
 ## 📊 GitHub Stats
-![Rameshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+
+![Rameshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ram2005373&show_icons=true&theme=tokyonight)
+
 
 ## 📫 Connect with Me
 - Email: your@email.com
